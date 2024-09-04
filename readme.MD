@@ -8,8 +8,9 @@ This repository contains notebook with the codes for developing a model that foc
 
 The models were developed by using U-NET model with encoder,bottleneck and decoder layers.
 
-- **Results**: 
-Accuracy = 95%
+- **Results**:
+
+-**Accuracy = 95%**
 
 Average IoU on Test Dataset: 83%
 
