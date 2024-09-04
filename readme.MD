@@ -10,5 +10,6 @@ The models were developed by using U-NET model with encoder,bottleneck and decod
 
 - **Results**: 
 Accuracy = 95%
+
 Average IoU on Test Dataset: 83%
 
